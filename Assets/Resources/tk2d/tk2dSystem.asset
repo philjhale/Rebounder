@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72fb5480ea3af70458d43df8464b132e, type: 3}
+  m_Name: tk2dSystem
+  m_EditorClassIdentifier: 
+  allResourceEntries:
+  - resourceGUID: cbea80c46ac9043d0918357e18c23e44
+    assetName: 
+    assetGUID: 838da2774b089426e96f03791d3ceec9
+  - resourceGUID: 36e71911e8ddb440b9db4b321f8080e5
+    assetName: 
+    assetGUID: 71792a128fefb41a4aae7bbaa428ff84
+  - resourceGUID: 9f9949e2163de4de3bce0df161d42456
+    assetName: 
+    assetGUID: 56bd0984fcf79426eaf8c9577ee2d32e
+  - resourceGUID: 38cd17d8979c1441aa5e1d742eafb1b3
+    assetName: 
+    assetGUID: 44cdf8ccf61b344b99df5475a424c2d1
+  - resourceGUID: 3f7c0bc778c894baba6a2cce4a8ecb08
+    assetName: 
+    assetGUID: 0194d22e8b07a49199b8de696186aa22
